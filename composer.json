@@ -1,0 +1,25 @@
+{
+    "name": "nguyenanhung/frontend-minify",
+    "type": "library",
+    "description": "Minify HTMLL, CSS, JS",
+    "keywords": [
+        "utils",
+        "api"
+    ],
+    "homepage": "https://github.com/nguyenanhung/frontend-minify",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Nguyen An Hung",
+            "email": "dev@nguyenanhung.com",
+            "homepage": "https://nguyenanhung.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nguyenanhung\\Utils\\FrontendMinify\\": "src/"
+        }
+    }
+}
