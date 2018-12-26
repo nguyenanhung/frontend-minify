@@ -1,8 +1,8 @@
-[![Latest Stable Version](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/v/stable)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
-[![Total Downloads](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/downloads)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
-[![Latest Unstable Version](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/v/unstable)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
-[![composer.lock](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/composerlock)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
-[![License](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/license)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
+[![Latest Stable Version](https://poser.pugx.org/nguyenanhung/frontend-minify/v/stable)](https://packagist.org/packages/nguyenanhung/frontend-minify)
+[![Total Downloads](https://poser.pugx.org/nguyenanhung/frontend-minify/downloads)](https://packagist.org/packages/nguyenanhung/frontend-minify)
+[![Latest Unstable Version](https://poser.pugx.org/nguyenanhung/frontend-minify/v/unstable)](https://packagist.org/packages/nguyenanhung/frontend-minify)
+[![composer.lock](https://poser.pugx.org/nguyenanhung/frontend-minify/composerlock)](https://packagist.org/packages/nguyenanhung/frontend-minify)
+[![License](https://poser.pugx.org/nguyenanhung/frontend-minify/license)](https://packagist.org/packages/nguyenanhung/frontend-minify)
 
 # Frontend Minify
 
