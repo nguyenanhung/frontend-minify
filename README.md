@@ -4,11 +4,9 @@
 [![composer.lock](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/composerlock)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
 [![License](https://poser.pugx.org/nguyenanhung/utils-exchange-rates/license)](https://packagist.org/packages/nguyenanhung/utils-exchange-rates)
 
-# Front-end Minify
+# Frontend Minify
 
-Nén HTML, CSS, JS
-
-
+Minify HTML, CSS, JS
 
 ### Liên hệ
 

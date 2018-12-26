@@ -1,7 +1,7 @@
 {
     "name": "nguyenanhung/frontend-minify",
     "type": "library",
-    "description": "Minify HTMLL, CSS, JS",
+    "description": "Minify HTML, CSS, JS",
     "keywords": [
         "utils",
         "api"
